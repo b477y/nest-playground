@@ -1,0 +1,7 @@
+.env.development
+.env.production
+dist/
+db/migrations/*.ts
+node_modules/
+images/*
+package-lock.json
